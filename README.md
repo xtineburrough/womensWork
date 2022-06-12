@@ -1,4 +1,4 @@
-# Women's Work is (Screen) Saved
+# About Women's Work is (Screen) Saved
 Two Sentence Description:
 
 Women’s Work is (Screen) Saved is a bundle of images designed for a photo-based screensaver. Each image is a virtual postcard that shares reflections written by women workers who were surveyed on Amazon.com's virtual job board, Mturk.com. 
@@ -13,3 +13,9 @@ While many of the texts included in the screensaver explicitly refer to the body
 
 # Install
 Download the bundle of images in the womensWork.zip file, and expand the file to see the folder of images. On your computer, choose your favorite photo-based screensaver theme and direct the file path to this folder which contains the Women's Work is (Screen) Saved image set. For instance, on MacOS, choose the Apple menu > System Preferences > Desktop & Screensaver. My favorite theme for viewing this work is MacOS' Vintage Prints.
+
+# Exhibitions
+Women's Work is (Screen) Saved has been exhibited in the following places, mostly as a video that documents the screensaver, https://vimeo.com/xtineburrough/womenswork:
+* April 2022 Projected outdoors for Aurora's Video Art Nights festival, Dallas, Texas
+* May 2022  Played on screen in the Electronic Literature Organization's Exhibition, Como, Italy
+* Forthcoming, November 2022 Played on screen in the Ammerman Center for Arts and Technology 17th Biennial Symposium, Connecticut College
